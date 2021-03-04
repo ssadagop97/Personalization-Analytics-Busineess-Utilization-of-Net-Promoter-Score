@@ -25,12 +25,20 @@ comparison to promoters
 
 Southeast Airline gathered a lot of raw data by doing survey. The data contains more
 than 20 variables.
+
 The data set given is at a ‘Flight Journey’ level .
+
 The Explanatory variables can be classified into:
+
 ● Traveller Demographic Variables : Age , Gender etc
+
 ● Traveller Persona Variables : Price Sensitivity, Loyalty , Amount spent at airports
 during travel, Frequent Flyer Tags etc.
+
 ● Air Carrier Variables : Airline partner, Airline Status etc.
+
 ● Travel Variables : Origin City, Flight Cancelled, Duration , Delay etc.
+
 ● Other Variables : Latitude, Longitude, Date time etc.
+
 The Likelihood to Recommend is taken as our Y variable for the Analysis
